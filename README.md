@@ -1,2 +1,2 @@
-# IBM.Project
-This is my IBM front-end project
+# Front-end.Project
+This is my First front-end project
